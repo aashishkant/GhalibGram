@@ -1,0 +1,13 @@
+The "mirza.py" script is released under the MIT License
+
+© 2024 Aashish Kant
+
+Hey there! This script is shared with you for free, and you're welcome to use, modify, or share it as you wish. However, just a few things to keep in mind:
+
+1. **No Warranty:** I've done my best, but there's no warranty for this script. Use it at your own risk. If it misbehaves, I can't be held responsible.
+
+2. **Spread the Love:** If you find the script useful, it would be awesome if you spread the word. Share it, talk about it, or even better, contribute and make it even cooler!
+
+3. **Credit Where It's Due:** If you use or modify the script, include this license notice in your project. Give credit where it's due.
+
+Enjoy coding and creating awesome things!
