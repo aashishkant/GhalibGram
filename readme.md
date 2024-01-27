@@ -39,8 +39,7 @@ Experience the project's success, spearheaded by Aashish Kant, and track the mod
 
 This project is a heartfelt ode to the enduring literary legacy of Mirza Ghalib, masterfully brought to life by Aashish Kant. Special gratitude extends to the dataset source and the vibrant PyTorch community, instrumental in providing cutting-edge tools for unraveling the beauty of natural language processing.
 
-## 📝 License
-
-This project operates under the MIT License, offering freedom and flexibility. Refer to the [LICENSE](LICENSE) file for comprehensive details.
+## License
+This project operates under the MIT License, offering freedom and flexibility. Refer to the [LICENSE.txt](LICENSE.txt) file for comprehensive details.
 
 Elevate your understanding of Mirza Ghalib's poetic universe, where tradition meets innovation in a symphony of words. 🌌✨
