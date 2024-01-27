@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.nn import GRU, Embedding
 
-# Read data from the Oscar text file
+
 with open("mirza.txt", "r", encoding="utf-8") as file:
     data = file.read()
 
